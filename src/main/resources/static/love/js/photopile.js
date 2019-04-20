@@ -44,7 +44,7 @@ function PhotoPile(options){
         autoplaySpeed:      5000,        // ms
 
         // Images
-        loading:            'images/loading.gif'  // path to img displayed while gallery/thumbnails loads
+        loading:            '/love/images/loading.gif'  // path to img displayed while gallery/thumbnails loads
     };
     config = options ? fetching(defaultOptions, options) : defaultOptions;
 
