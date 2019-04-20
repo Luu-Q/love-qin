@@ -785,7 +785,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         /**
          * Return the correct Transition and  Animation End Prefix helper according to the current browser
          * @method _transitionEndPrefix
-         * @return public.xin.index of the prefix acording to the browser
+         * @return templates.index of the prefix acording to the browser
          */
         selfish._endPrefixBrowserDetectionIndex = function() {
             //TODO: Delete de element after create this
